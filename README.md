@@ -1,6 +1,6 @@
 # [Gio](https://gioui.org/) practices
 
-![hello_screenshot](./screenshot.png)
+![hello_screenshot](./screenshot_layout.png)
 
 ## Copied from
 * [gio-example/kitchen](https://git.sr.ht/~eliasnaur/gio-example/tree/main/item/kitchen/kitchen.go)
