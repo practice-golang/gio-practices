@@ -1,4 +1,4 @@
-module hello-gio
+module gio-layout
 
 go 1.15
 

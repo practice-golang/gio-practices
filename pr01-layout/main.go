@@ -1,4 +1,4 @@
-package main // import "hello-gio"
+package main // import "gio-layout"
 
 import (
 	"image"
