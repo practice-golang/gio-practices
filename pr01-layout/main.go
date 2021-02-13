@@ -52,7 +52,6 @@ func loop(w *app.Window) error {
 }
 
 func setLayouts(gtx layout.Context, th *material.Theme) layout.Dimensions {
-	layout.
 	widgets := []layout.Widget{
 		material.H3(th, topLabel).Layout,
 		func(gtx C) D { return setInputField(gtx, th) },
